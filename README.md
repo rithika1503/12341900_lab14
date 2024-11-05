@@ -1,2 +1,1 @@
-# 12341900_lab14
-csp203
+# This is a README file
